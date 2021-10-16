@@ -311,7 +311,7 @@
       "species": ["God"],
       "gender": "Male",
       "about": "Hermes is the Olympian God of Travelers, Messengers, Thieves, Commerce, Sports, Athletics, and Speed. He is the son of the King of Olympus Zeus and the Pleiades Maia. He is also the father of Ceryx, the messenger of Mt. Olympus..",
-      "quote": "	I thought Spartans fought with honor. And yet you seek to kill me when I have no way to defend myself? Not fair! But you have your own sense of honor, right, Kratos? And what has that honor brought you? Nothing but nightmares of your failure. Today you may defeat me, but in the end, Kratos, in the end you'll betray only yourself.."
+      "quote": "I thought Spartans fought with honor. And yet you seek to kill me when I have no way to defend myself? Not fair! But you have your own sense of honor, right, Kratos? And what has that honor brought you? Nothing but nightmares of your failure. Today you may defeat me, but in the end, Kratos, in the end you'll betray only yourself.."
   },
     {
   "id": 21,
@@ -323,6 +323,79 @@
       "species": ["God"],
       "gender": "Male",
       "about": "Poseidon is the Olympian God of the seas, rivers, water, storms, tempests, winds, hurricanes, rain, floods, drought, earthquakes and horses. He also is the King of the Oceans and Atlantis. In terms of power, he is surpassed in eminence only by his brother Zeus, with his other brother, Hades, being his equal. He appears as an ally in God of War and a major antagonist in God of War III.",
-      "quote": "You have disrespected the Gods for the last time, Kratos!	"
+      "quote": "You have disrespected the Gods for the last time, Kratos!"
+  },
+  {
+    "id": 22,
+    "img": "data:image/jpeg;base64,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",
+    "character": "Lysandra",
+    "voiceActor": "Jennifer Hale",
+    "appearsIn": ["God of War II"],
+      "species":["Mortal"],
+      "gender": "Female",
+      "about": "Kratos' first wife, Lysandra, along with their daughter, Calliope, was one of the few who wasn't afraid of Kratos.Lysandra was also the only person who did not fear Kratos during his service to Ares, and, on more than one occasion, questioned his reasons for the reckless slaughter of many innocent people.",
+      "quote":"You can see the light, it is changing you, it is time to lay your fears to rest, the light reveals the truth, the power of forgiveness comes from within. To be forgiven you must find the power to forgive yourself."
+  },
+  {
+    "id": 23,
+    "img": "https://static.wikia.nocookie.net/godofwar/images/c/c8/Baldur_photo_mode_6.jpg/revision/latest/scale-to-width-down/568?cb=20180522160401",
+    "character": "Baldur",
+    "voiceActor": "Jeremy Davies",
+    "appearsIn": ["God of War (2018)"],
+    "Alias/es":["The Starnger",
+      "God og Light",
+      "Gleaming God",
+      "Pride of Aesir",
+      "My Boy (by Frigg)",
+      "Son of Odin",
+      "The Man Who Cannot Be Killed (by Mimir)",
+      "Uncle (by Magni and Modi)",
+      "Coward (by himself)",
+      "Thor's Brother",
+      "Scruffy Fella (by Brok)"],
+      "species":["God"],
+      "gender": "Male",
+      "about": "Unlike his two fellow Aesir nephews, Baldur presents himself with a more restrained, albeit equally ruthless demeanor. Years of invincibility and lack of sensation from his curse of protection have thoroughly worn his personality and mental state away.",
+      "quote":"Hahaha. And here I thought your kind were supposed to be so enlightened. So much better than us. So much smarter. And yet here you hide out in the woods--like a coward."
+  },
+  {
+    "id": 24,
+    "img": "https://static.wikia.nocookie.net/godofwar/images/b/bb/Gow2-gaia.jpg/revision/latest/scale-to-width-down/549?cb=20080308184943",
+    "character": "Gaia",
+    "voiceActor": "Susan Blakeslee",
+    "appearsIn": ["God of War II"],
+    "Alias/es":["Goddess of the Earth",
+      "Mother Earth",
+      "Mother of the Titans",
+      "Grandmother of All Sea",
+      "Monsters"],
+      "species":["Primordial"],
+      "gender": "Female",
+      "about": "Gaia was once a caring and loving Titan, helping anyone no matter the cost. She even cared for and nurtured Zeus, when the young god was hiding from his father Cronos.",
+      "quote":"I am the Titan, Gaia; ever-present Mother of Earth. I have watched you become a powerful warrior, and I have been with you through all the events of your life, but I can no longer simply watch."
+  },
+  {
+    "id": 25,
+    "img": "https://static.wikia.nocookie.net/godofwar/images/1/1a/Hephaestus_001.jpg/revision/latest/scale-to-width-down/542?cb=20150728045513",
+    "character": "Hephaestus",
+    "voiceActor": "Rip Torn",
+    "appearsIn": ["God of War III"],
+    "Alias/es":["Craftsman of Olympus",
+      "Smith of Gods"],
+      "species":["God"],
+      "gender": "Male",
+      "about": "Out of all the Gods Of Olympus, Hephaestus was the most benevolent to Kratos besides Athena. Hephaestus loved the things he forged and created, with his most cherished creation being Pandora, whom he came to love as his own daughter.",
+      "quote":"Zeus may have imprisoned me here, but you are the reason I live in torment."
+  },
+  {
+    "id": 26,
+    "img": "https://static.wikia.nocookie.net/godofwar/images/8/8a/Perseus-God_of_War_II_001.PNG/revision/latest/scale-to-width-down/487?cb=20160430015419",
+    "character": "Perseus",
+    "voiceActor": "Harry Hamlin",
+    "appearsIn": ["God of War II", "God of War: Ascension"],
+      "species":["Demigod"],
+      "gender": "Male",
+      "about": "As most heroes in the God of War series, Perseus is very confident in his own skill and quickly underestimates the abilities of Kratos.",
+      "quote":"Are you watching me now, Sisters? Give me a sign! Am I, the great Perseus, to kill this fallen God to receive an audience with you? Will that allow me to bring my love back from the grasp of Hades himself!? If not, then at least I can bathe in the glory of being the one who brought down the mighty Kratos. The Slayer of Gods. Although I hardly think a harpy's fool such as yourself deserves such praise."
   }
 ] 
